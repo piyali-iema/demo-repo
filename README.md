@@ -1,1 +1,1 @@
-hi, demo-repo desc
+hi, repo2 desc
